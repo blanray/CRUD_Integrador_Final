@@ -1,0 +1,8 @@
+datos\ProductosDAO.class
+web\ServletControlador.class
+datos\TiposProductoDAO.class
+datos\UtilidadesDAO.class
+datos\Conexion.class
+modelo\Productos.class
+modelo\Utilidades.class
+modelo\TiposProducto.class
